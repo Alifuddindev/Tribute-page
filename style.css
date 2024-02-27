@@ -1,23 +1,23 @@
-.header{
+.header {
     background-color: rgb(231, 202, 164);
-    padding: 10px;
+    padding: 20px; /* Increased padding for better spacing */
     text-align: center;
-    font-size: 25px;
+    font-size: 32px; /* Increased font size for emphasis */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-
 }
 
-audio{
+audio {
     display: block;
     margin: auto;
     border: 3px solid black;
+    margin-top: 20px; /* Added margin-top for better spacing */
 }
 
-footer{
+footer {
     background-color: hsl(34, 58%, 77%);
-    padding: 10px;
+    padding: 20px; /* Increased padding for better spacing */
     text-align: center;
-    font-size: 25px;
+    font-size: 18px; /* Decreased font size for footer */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    margin-top: 10px;
+    margin-top: 20px; /* Added margin-top for better spacing */
 }
